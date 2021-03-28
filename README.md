@@ -1,0 +1,2 @@
+# EqSpread
+A spread option is an option written on the difference of two underling assets, whose values at time t we denote by S1(t) and S2(t). We consider only options of the European type for which the buyer has the right to be paid, at the maturity date T, the difference S2(T)−S1(T), known as the spread. To exercise the option, the buyer must pay at maturity a prespecified price K, known as the strike, or the exercise price of the option.
