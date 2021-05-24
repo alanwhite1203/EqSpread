@@ -20,6 +20,10 @@ A standard Call or Put payoff applies on the spread. The payoff may also be capp
 
 
 
-Reference:
-https://finpricing.com/lib/EqSpread.html
+References:
+
+https://finpricing.com/lib/EqWarrant.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNzQzM4MTPkl0av9mY
+
 
